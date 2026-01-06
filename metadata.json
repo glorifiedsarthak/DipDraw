@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Omni-Chat",
+  "description": "A powerful AI chatbot capable of generating text, high-quality images, and cinematic videos using the latest Gemini and Veo models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
